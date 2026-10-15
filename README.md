@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Bishal Barman profile views](https://u8views.com/api/v1/github/profiles/198253453/views/day-week-month-total-count.svg)](https://u8views.com/github/rizzhal)
+
 <!--
 **rizzhal/rizzhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
